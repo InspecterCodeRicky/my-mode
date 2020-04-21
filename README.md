@@ -1,2 +1,1 @@
 # my-mode
-cest moi
